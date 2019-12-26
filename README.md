@@ -9,3 +9,4 @@ Contains projects:
 2. Snake Game
 3. Chat Application
 4. CLI Toy Blockchain
+5. Simple web API for posts
